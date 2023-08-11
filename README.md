@@ -1,4 +1,4 @@
 # JpaPagingItemReader-example
 JpaPagingItemReader example
 
-https://www.netsurfingzone.com/spring-batch/jpapagingitemreader-example/
+https://www.javatute.com/spring-batch/jpapagingitemreader-example/
